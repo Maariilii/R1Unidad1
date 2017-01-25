@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ecuacion</string>
+    <string name="input_first_number">Input first number</string>
+    <string name="calculate">Calculate</string>
+    <string name="valor_de_la_letra_x"></string>
+    <string name="_x3_7x2_5_4__x2">x^3+7^2-5x+4/x^2</string>
+    <string-array name="operations">
+        <item>x^3+7^2-5x+4/x^2</item>
+    </string-array>
+</resources>
